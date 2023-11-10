@@ -1,0 +1,76 @@
+ul{
+  list-style: none
+}
+
+.body{
+  font-family: sans-serif;
+  border-radius: 25px;
+  box-shadow: 3px 3px 11px 0px rgba(0, 0, 0, 1);
+  
+  
+  
+}
+
+.box1{
+  padding: 10px;
+  position: relative;
+  left: 20px;
+}
+.box1 h2 {
+  color: hsl(179, 62%, 43%);
+}
+
+.guarantee{
+  color: hsl(71, 73%, 54%);
+}
+
+.body1{
+  color: hsl(218, 22%, 67%);
+  line-height: .5;
+  display: inline-block
+}
+
+.bottom div{
+  display: inline-block;
+  color:  hsl(204, 43%, 93%);
+  margin: 0px;
+}
+
+.box2{
+  background-color: hsl(179, 62%, 43%);
+  padding: 40px;
+  width: 200px;
+  height: 250px;
+  position: relative;
+  left: 20px;
+  
+}
+
+.money {
+  display: inline-block
+}
+
+.box3{
+  background-color: hsl(179, 62%, 43%);
+  padding: 40px;
+  width: 200px; 
+  height: 250px;  
+  position: relative;
+  top: 17px;
+  right: 4px;
+  left: 20px;
+  margin: 0px;
+}
+
+.sign-up{
+  background-color: hsl(71, 73%, 54%);
+  width: 200px;
+  position: relative;
+  right: 3px;
+  text-align: center;
+  cursor: pointer
+}
+
+.sign-up:hover{
+  background-color: #A9C42D;
+  transform: scale(1.03);
